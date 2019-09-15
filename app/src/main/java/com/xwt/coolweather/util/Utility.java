@@ -13,9 +13,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-/**
- * Created by liush on 2019/9/14.
- */
+
 
 public class Utility {
     public static boolean handeProvinceResponse(String response){

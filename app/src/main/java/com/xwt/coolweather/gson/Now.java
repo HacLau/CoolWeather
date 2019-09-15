@@ -2,9 +2,6 @@ package com.xwt.coolweather.gson;
 
 import com.google.gson.annotations.SerializedName;
 
-/**
- * Created by liush on 2019/9/15.
- */
 
 public class Now {
     @SerializedName("tmp")

@@ -2,9 +2,7 @@ package com.xwt.coolweather.db;
 
 import org.litepal.crud.DataSupport;
 
-/**
- * Created by liush on 2019/9/14.
- */
+
 
 public class County extends DataSupport {
     private int id;
